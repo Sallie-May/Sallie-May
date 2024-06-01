@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**AdvancedSkyblock/AdvancedSkyblock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">AdvancedSkyblock</h1>
+<p align=center>
+    Hi, I'm AdvancedSkyblock
 
-Here are some ideas to get you started:
+I am a trans girl, losing her time coding in Go for fun.
+My principal languages are Golang and Python. 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___________
+
+<p align="center">⭐My Contact</p>
+
+Discord: `sallie.may.`
+
+___________ 
+Tools
+
+![](https://skillicons.dev/icons?i=go) (*Learning*)
+
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+<p align="center"> 
+  Visits:<br>
+  <img src="https://komarev.com/ghpvc/?username=AdvancedSkyblock&style=for-the-badge"/>
+</p>
+
+_________
+
+![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+
