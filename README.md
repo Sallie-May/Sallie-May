@@ -1,7 +1,7 @@
 
-<h1 align="center">AdvancedSkyblock</h1>
+<h1 align="center">Sallie-May</h1>
 <p align=center>
-    Hi, I'm AdvancedSkyblock
+    Hi, I'm Sallie-May
 
 I am a trans girl, losing her time coding in Go for fun.
 My principal languages are Golang and Python. 
