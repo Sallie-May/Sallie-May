@@ -11,7 +11,7 @@ ___________
 
 <p align="center">⭐My Contact</p>
 
-Discord: `Not anymore`
+Discord: `Not anymore will pass on Guilded soon!`
 
 ___________ 
 Tools
