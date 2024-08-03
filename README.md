@@ -11,7 +11,7 @@ ___________
 
 <p align="center">⭐My Contact</p>
 
-Discord: `sallie.may.`
+Discord: `Not anymore`
 
 ___________ 
 Tools
